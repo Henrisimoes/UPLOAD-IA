@@ -1,0 +1,62 @@
+{
+    "arp": "sem informações adicionais",
+    "arp_seplag": "sem informações adicionais",
+    "data_pretendida": "18 de setembro de 2025",
+    "descricao": "A presente demanda visa à aquisição de equipamentos tecnológicos essenciais para o setor de Recursos Humanos (RH) do Departamento de Trânsito (DETRAN), destinados ao apoio às atividades diárias e ao aprimoramento da gestão dos recursos humanos. A contratação destes itens, compreendendo uma tela interativa, um mouse com 03 botões e scroll, e um teclado e mouse, é fundamental para garantir a eficiência e produtividade das operações do órgão, tornando-os mais ágeis e eficazes na gestão dos recursos humanos.",
+    "elemento_despesa": "489735241",
+    "email": "danilocruz@detran.mt.gov.br",
+    "equipe": "NÃO SE APLICA.",
+    "etapa": "05",
+    "finalidade": "Aquisição de itens para o setor de rh do detran.",
+    "fiscal_matricula": "113113",
+    "fiscal_nome": "Eder figeredo",
+    "fonte": "1054879",
+    "forma_contratacao": "Modalidades da Lei nº 14.133/21",
+    "forma_contratacao_opcoes": "(X) Modalidades da Lei nº 14.133/21      \n( ) Utilização à ARP - Órgão Participante\n( ) Adesão à ARP de outro Órgão          \n( ) Dispensa/Inexigibilidade             ",
+    "justificativa": "\"A DETRAN-MT necessita de equipamentos modernos e eficientes para atender às suas necessidades operacionais no setor de recursos humanos. A aquisição de 3 telas interativas touchscreen, 3 mice com 03 botões e scroll, e 3 conjuntos de teclado e mouse será fundamental para melhorar a produtividade e eficiência dos funcionários do RH. Estes equipamentos permitirão uma gestão mais rápida e precisa de dados, reduzindo o tempo de processamento e aumentando a precisão nos registros e análises. Além disso, a escolha destes produtos com tecnologia touchscreen e interface USB garantirá uma experiência de usuário mais intuitiva e fácil, contribuindo para um ambiente de trabalho mais produtivo e eficaz.\"",
+    "justificativa_etp": "Não se aplica.",
+    "justificativa_pca": "",
+    "lista_itens": [
+        {
+            "catmat": "0001269",
+            "descricao": "TELA INTERATIVA - TIPO DE MONITOR: TOUCHSCREEN; PAINEL: IPS TOUCHSCREEN/NEW EDGE/VA; PROPORÇÃO DE TELA: 16:9; REVESTIMENTO DA TELA: ANTIREFLEXO; ÂNGU",
+            "finalidade_especifica": "Uso no setor de rh do detran",
+            "item": "001",
+            "qtd": "3",
+            "unidade": "UN"
+        },
+        {
+            "catmat": "7090042700007",
+            "descricao": "MOUSE COM 03 BOTÕES E SCROLL, 700DPI INTERFACE USB, EMBALAGEM COM IDENTIFICAÇÃO DO PRODUTO E MARCA DO FABRICANTE. UNIDADE.",
+            "finalidade_especifica": "Uso no setor de rh do detran",
+            "item": "002",
+            "qtd": "3",
+            "unidade": "UN"
+        },
+        {
+            "catmat": "0007083",
+            "descricao": "TECLADO E MOUSE - COR: PRETO; CONEXÃO: USB; LARGURA: 22 CM; COMPRIMENTO CABO: 1.5 M; ALTURA: 12CM; QUANTIDADE DE TECLAS: 18 TECLAS; MODELO: NUMÉRICO.",
+            "finalidade_especifica": "uso no setor de rh",
+            "item": "003",
+            "qtd": "3",
+            "unidade": "UN"
+        }
+    ],
+    "matricula": "246679",
+    "necessidade_etp": "NÃO",
+    "necessidade_etp_bool": "NÃO",
+    "objetivo": "Objetivo da demanda de aquisição/contratação:\n\nO objetivo é adquirir três conjuntos de equipamentos para o setor de Recursos Humanos (RH) do DETRAN-MT, compreendendo: Tela Interativa Touchscreen, Mouse com 03 botões e scroll, e Teclado e Mouse. Essa aquisição atende à missão e metas do DETRAN-MT ao fornecer ferramentas essenciais para o funcionamento eficaz do RH, garantindo melhorias na produtividade e eficiência.\n\nEssa aquisição específica visa atender às necessidades do setor de RH, proporcionando condições ideais para a gestão dos recursos humanos, armazenamento e processamento de dados, e comunicação eficaz entre os funcionários.",
+    "objeto_opcoes": "( ) Material de consumo                           \n( ) Material permanente                           \n(X) Equipamento de TI                             \n( ) Serviço não continuado                        \n( ) Serviço sem dedicação exclusiva de mão de obra\n( ) Serviço com dedicação exclusiva de mão de obra",
+    "orgao": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE MATO GROSSO – DETRAN-MT",
+    "planejamento": "A demanda de aquisição/contratação apresentada está alinhada ao planejamento estratégico do DETRAN-MT, tendo como objetivo a melhoria da eficiência administrativa e a otimização dos processos no setor de RH. A aquisição de itens como tela interativa, mouse com 03 botões e scroll, e teclado e mouse numérico visa melhorar a capacidade de resposta e produtividade dos funcionários do setor, contribuindo para a racionalização de recursos e a modernização da infraestrutura.",
+    "previsao_pca": "NÃO",
+    "previsao_pca_bool": "NÃO",
+    "programa": "038",
+    "projeto_atividade": "2002",
+    "responsavel": "DANILO VIEIRA DA CRUZ",
+    "setor": "COORDENADORIA DE TECNOLOGIA DA INFORMAÇÃO",
+    "subacao": "01",
+    "telefone": "(65) 3615-4811",
+    "tipo_objeto": "Equipamento de TI",
+    "unidade_orcamentaria": "19301"
+}

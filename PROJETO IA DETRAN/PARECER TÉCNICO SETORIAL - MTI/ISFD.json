@@ -1,0 +1,183 @@
+{
+    "ano": 2025,
+    "ata_registro": "",
+    "comp_vant_ac": false,
+    "das_cargo": "",
+    "das_mat": "",
+    "das_nome": "",
+    "das_setor": "",
+    "data_isfd": "Cuiabá-MT, 10 de setembro de 2025.",
+    "data_limite_arp": "10/09/2025 a 10/09/2025",
+    "data_publicacao_arp": "",
+    "demandante_cargo": "",
+    "demandante_mat": "",
+    "demandante_nome": "",
+    "demandante_setor": "",
+    "dot_acao": "2009",
+    "dot_etapa": "01",
+    "dot_fonte": "15010000",
+    "dot_nat_desp": "3390.3000",
+    "dot_programa": "036",
+    "dot_subacao": "02",
+    "execucao_meses": 0,
+    "fiscal_subs": "",
+    "fiscal_subs_matricula": "",
+    "fiscal_titular": "",
+    "fiscal_titular_matricula": "",
+    "gestor_subs": "",
+    "gestor_subs_matricula": "",
+    "gestor_titular": "",
+    "gestor_titular_matricula": "",
+    "just_qtd": "O DETRAN-MT necessita do GEL CONDUTOR 1000G para garantir a segurança e eficácia dos procedimentos médicos em seus monitores cirúrgicos. Esse produto é essencial para a transmissão de impulsos elétricos entre a pele do paciente e o eletrodo, permitindo uma monitoração precisa e confiável das funções vitais. A contratação desses gels condutores em quantidade de 2 unidades atende às necessidades específicas do setor de ti e garante a continuidade dos serviços médicos de alta qualidade. Além disso, a economia gerada pela redução de erros e complicações associados à falta desse produto justifica o investimento.",
+    "justificativa_nao_planejada": "Não Se Aplica.",
+    "licitacao_origem": "",
+    "lista_itens": [
+        {
+            "cod_siag": 7090042700007,
+            "descricao": "MOUSE COM 03 BOTÕES E SCROLL, 700DPI INTERFACE USB, EMBALAGEM COM IDENTIFICAÇÃO DO PRODUTO E MARCA DO FABRICANTE. UNIDADE.",
+            "item": 1,
+            "qtd": 2,
+            "unidade": "UN",
+            "valor_un": 19.99
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        },
+        {
+            "cod_siag": 3411,
+            "descricao": "TECLADO E MOUSE - COR: PRETO; IDIOMA: PORTUGUES – BRASIL; COR DA RETROILUMINAÇÃO DO TECLADO: PRETO; TIPO DO SENSOR DO  MOUSE: OPTICO; BATERIA: SIM; SEM FIO: SIM; CONEXÃO: USB; LARGURA: 455.8 MM; PROFU",
+            "item": 2,
+            "qtd": 5,
+            "unidade": "UN",
+            "valor_un": 15.0
+        }
+    ],
+    "local_entrega": "O objeto deverá ser entregue, mediante agendamento de data e hora, nos dias e horários de expediente desta Autarquia (segunda à sexta-feira das 08h00min às 16h00min), com comunicação antecipada de 24 (vinte e quatro) horas, na Gerência de Material e Mobiliário do Detran/MT, situado na Av. Dr. Hélio Ribeiro Torquato da Silva, nº 1000 - Centro Político Administrativo - CEP 78.048-910 - Cuiabá/MT;",
+    "numero_ISFD": 1,
+    "obj_sint": "O objetivo é adquirir GEL CONDUTOR 1000G, um produto especialmente desenvolvido para uso como meio de contato para transmissão de impulsos elétricos entre a pele do paciente e o eletrodo em monitores cirúrgicos. Esta aquisição atende à missão e metas do DETRAN-MT ao contribuir para o desenvolvimento e melhoria da tecnologia médica, garantindo a qualidade e segurança dos procedimentos de diagnóstico e tratamento no setor de ti.",
+    "oficio_empresa": false,
+    "oficio_og": false,
+    "parecer_gov_tic": false,
+    "prazo_correcao": 0,
+    "prazo_entrega": 0,
+    "previsao_consumo": false,
+    "previsto_plano": true,
+    "prorrogar_execucao": false,
+    "prorrogar_vigencia": false,
+    "td": 5,
+    "tem_execucao": false,
+    "total_aquisicao": 2114.97999999999999,
+    "total_aquisicao_escrito": "CENTO E CATORZE REAIS E NOVENTA E OITO CENTAVOS",
+    "unidade_solicitante": "COORDENADORIA DE TECNOLOGIA DA INFORMAÇÃO",
+    "unit_orc": "19.301",
+    "vigencia_meses": 0
+}
