@@ -1,9 +1,9 @@
 
   You can now view your Streamlit app in your browser.
 
-  Local URL: http://localhost:8501
-  Network URL: http://172.16.8.5:8501
-  External URL: http://201.49.166.244:8501
+  Local URL: http://localhost:8504
+  Network URL: http://172.16.8.5:8504
+  External URL: http://201.49.166.244:8504
 
 C:\Users\pedrosilva\AppData\Local\Programs\Python\Python313\Lib\site-packages\docxcompose\properties.py:18: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
   import pkg_resources

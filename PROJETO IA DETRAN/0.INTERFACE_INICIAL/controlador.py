@@ -40,7 +40,13 @@ APPS_PARA_INICIAR = [
         "caminho_app": cwd / "PARECER TÉCNICO SETORIAL - MTI"/ "app_streamlit.py",
         "porta": "8507",
     },
+    {
+        "nome": "GT",
+        "caminho_app": cwd / "GT - Gestão de riscos" / "app.py",
+        "porta": "8504",
+    },
 ]
+
 # -----------------------------------------
 
 services_started = False
